@@ -1,0 +1,6 @@
+{
+  "name": "The Pizza & Co. (TPC) - Lahore",
+  "description": "Official online ordering, reservations, and live tracking for The Pizza & Co. (TPC) located at Sharaqpur Road, Lahore.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
